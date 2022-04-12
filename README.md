@@ -1,4 +1,5 @@
 # Welcome to your CDK TypeScript project!
+Gratuitous change to trigger code scan.
 
 This is a blank project for TypeScript development with CDK.
 
